@@ -1,1 +1,1 @@
-# Carte
+Carte is an innovative digital menu and ordering platform built for restraunts. Unlike most restraunt technology providers, Carte's feature rich set is built intentionally with the diner in mind, improving their experience and reducing order friction. Carte is an MVP and due to the proprietary nature of the code, I can only provide snippets. This reposity contains SQL, .NET, and React code for a few features. 
